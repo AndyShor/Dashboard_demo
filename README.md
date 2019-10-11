@@ -4,3 +4,5 @@ Dataset for plottig is price analysis of used cars offered on German and French 
 Data scrapped from autoscout24.de for Germany and lacentrale.fr for France.
 Cars in dataset are limited to 4-5 door, 4+ seats, enginer power less or equal to 129 HP.
 No fuels type and transmission specified.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Dashboard_demo/master)
