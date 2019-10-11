@@ -1,4 +1,0 @@
-padas
-bokeh
-panel
-itertools
